@@ -19,4 +19,4 @@ dotnet run
 Author
 Name: K. L. Mensah
 Student ID: 11011978
-Course: DCIT 318
+Course: DCIT318 PROGRAMMING II 
